@@ -2,7 +2,7 @@ Team name: AUGment
 
 Working paper title: Emotion and Theme Recognition in Music using Attention-based methods
 
-Requirements:
+Requirements: 
     Python 3.6+
     Virtualenv: pip install virtualenv
     Create virtual environment and install requirements
