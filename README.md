@@ -2,7 +2,7 @@ Team name: AUGment
 
 Working paper title: Emotion and Theme Recognition in Music using Attention-based methods
 
-Requirements: 
+Requirements:
     Create virtual environment and install requirements
 
     python -m venv venv
@@ -13,7 +13,7 @@ Data: precomputed mel-spectrograms of split-0 of MTG-Jamendo Dataset
 
 Assuming you are working in scripts\teamAUGment folder
 
-1. Preprocessing
+1. Preprocessing 
 python get_npy.py run 'your_path_to_spectrogram_npy'
 
 2. Train
