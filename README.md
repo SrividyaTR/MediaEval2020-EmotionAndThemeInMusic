@@ -1,4 +1,5 @@
 Team name: AUGment
+
 Working paper title: Emotion and Theme Recognition in Music using Attention-based methods
 
 Requirements:
@@ -25,6 +26,5 @@ python main.py --mode 'TEST' --subset='moodtheme' --audio_path='your_path_to_spe
 
 4. Fusion of results (Performs late-fusion of predictions.npy of individual models made available in 'results' folder)
 python fusion.py -o fusion_results
-
 
 Note: For enabling AReLU activation (corresponding to Submission2 method), commented code in model.py to be uncommented.  
